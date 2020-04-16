@@ -1,6 +1,7 @@
 # Real Time Digit Recognition
 
-Simple real time digit recognition application developed in python, where user draws a digit in the GUI and application predicts the drawn digit.
+Simple real time digit recognition application developed in python, where user draws a digit in the GUI and application predicts the drawn digit.  
+  
 ![Test Image 1](sample-1.jpg)
 ![Test Image 2](sample-2.jpg)
 
